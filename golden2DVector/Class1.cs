@@ -45,7 +45,7 @@ namespace golden2DVector
 		{
 			golden2D result = new golden2D();
 			result.X = this.X + inputGolden2D.X;
-			result.Y = this.Y + inputGolden2D.Y;
+			result.Y = this.Y ;
 			return result;
 		}
 		public golden2D Addition(int inputX, int inputY)
