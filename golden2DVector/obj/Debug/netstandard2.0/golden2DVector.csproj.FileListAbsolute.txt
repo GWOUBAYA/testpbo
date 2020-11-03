@@ -1,0 +1,9 @@
+C:\Users\Golden\Pictures\PBO\golden2DVector\bin\Debug\netstandard2.0\golden2DVector.deps.json
+C:\Users\Golden\Pictures\PBO\golden2DVector\bin\Debug\netstandard2.0\golden2DVector.dll
+C:\Users\Golden\Pictures\PBO\golden2DVector\bin\Debug\netstandard2.0\golden2DVector.pdb
+C:\Users\Golden\Pictures\PBO\golden2DVector\obj\Debug\netstandard2.0\golden2DVector.csprojAssemblyReference.cache
+C:\Users\Golden\Pictures\PBO\golden2DVector\obj\Debug\netstandard2.0\golden2DVector.csproj.CoreCompileInputs.cache
+C:\Users\Golden\Pictures\PBO\golden2DVector\obj\Debug\netstandard2.0\golden2DVector.AssemblyInfoInputs.cache
+C:\Users\Golden\Pictures\PBO\golden2DVector\obj\Debug\netstandard2.0\golden2DVector.AssemblyInfo.cs
+C:\Users\Golden\Pictures\PBO\golden2DVector\obj\Debug\netstandard2.0\golden2DVector.dll
+C:\Users\Golden\Pictures\PBO\golden2DVector\obj\Debug\netstandard2.0\golden2DVector.pdb
