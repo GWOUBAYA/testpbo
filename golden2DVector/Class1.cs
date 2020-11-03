@@ -52,7 +52,7 @@ namespace golden2DVector
 		{
 			golden2D result = new golden2D();
 			result.X = this.X + inputX;
-			result.Y = this.Y + inputY;
+			result.Y = this.Y;
 			return result;
 		}
 		public golden2D Subtract(golden2D inputGolden2D)
