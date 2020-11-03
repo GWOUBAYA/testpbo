@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bxu0tWwnjZe43hIFAz/iN6ItTBMpvCjNkIevy+aFUKCpPLKACno7mJK62Q1VG6HzzOTsTg1AAfMCEE2GhCPUuA==",
+  "dgSpecHash": "YG+Lcuw5Esau/1WPLq/L3pDOhxm+1SzA64l3sLEdkbAZ1MqNfjZo9u2vgcz0BiV9EOLliN5EPeqQeEkFYpT6bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Golden\\Pictures\\PBO\\golden2DVector\\golden2DVector.csproj",
+  "projectFilePath": "C:\\Users\\Golden\\Documents\\GitHub\\testpbo\\golden2DVector\\golden2DVector.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Golden\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Golden\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

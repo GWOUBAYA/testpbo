@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Golden\\Pictures\\PBO\\golden2DVector\\golden2DVector.csproj",
+      "projectUniqueName": "C:\\Users\\Golden\\Documents\\GitHub\\testpbo\\golden2DVector\\golden2DVector.csproj",
       "projectName": "golden2DVector",
-      "projectPath": "C:\\Users\\Golden\\Pictures\\PBO\\golden2DVector\\golden2DVector.csproj",
+      "projectPath": "C:\\Users\\Golden\\Documents\\GitHub\\testpbo\\golden2DVector\\golden2DVector.csproj",
       "packagesPath": "C:\\Users\\Golden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Golden\\Pictures\\PBO\\golden2DVector\\obj\\",
+      "outputPath": "C:\\Users\\Golden\\Documents\\GitHub\\testpbo\\golden2DVector\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Golden\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,7 +233,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
